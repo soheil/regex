@@ -1,0 +1,33 @@
+{
+  "name": "regex-utils",
+  "version": "1.0.0",
+  "description": "A toolkit for common regex expressions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soheil/regex.git"
+  },
+  "devDependencies": {
+    "benchmark": "^2.1.0",
+    "fast-check": "0.0.8",
+    "tape": "*"
+  },
+  "keywords": [
+    "regex",
+    "email",
+    "extraction",
+    "name",
+    "validation",
+    "email",
+    "validation"
+  ],
+  "author": "Soheil Yasrebi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soheil/regex/issues"
+  },
+  "homepage": "https://github.com/soheil/regex#readme"
+}
