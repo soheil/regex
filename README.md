@@ -2,7 +2,7 @@
 
 Regex expressions for common use cases.
 
-[![Build Status][https://api.travis-ci.org/soheil/regex.svg]][https://api.travis-ci.org/soheil/regex]
+[![Build Status](https://api.travis-ci.org/soheil/regex.svg)](https://api.travis-ci.org/soheil/regex)
 
 ## Install
 
